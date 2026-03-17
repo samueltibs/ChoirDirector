@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+httpx
+pydantic
+pydantic-settings
+python-jose[cryptography]
+python-multipart
+aiofiles
+tenacity
